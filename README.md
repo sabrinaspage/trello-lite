@@ -1,4 +1,4 @@
-A minimalist task management board inspired by Trello, designed for hands-free productivity. Move cards between columns—like "To Do," "In Progress," and "Done"—using simple voice commands instead of dragging and dropping.
+A minimalist task management board inspired by Trello, designed for hands-free productivity. Move cards between columns, like "To Do," "In Progress," and "Done", using simple voice commands instead of dragging and dropping.
 
 Key features:
 - Clean, distraction-free interface with customizable columns
