@@ -1,0 +1,15 @@
+{
+  "name": "trello-lite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npm run dev -w apps/api & npm run dev -w apps/web",
+    "db:up": "docker compose up -d",
+    "db:down": "docker compose down"
+  },
+  "workspaces": ["/apps/*", "packages/*"],
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
